@@ -1601,7 +1601,7 @@
 - [K-Dense-AI/claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp) - MCP server for searching and retrieving Claude Agent Skills using vector search
 - [anthropics/skills](https://github.com/anthropics/skills) - Public repository for Agent Skills
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
-- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini, vibe coding anytime, anywhere
+- [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
 - [cryptocj520/crypto-trading-open](https://github.com/cryptocj520/crypto-trading-open) - crypto-trading-open
 - [wimoor-erp/wimoor](https://github.com/wimoor-erp/wimoor) - 
 - [redtrillix/SpaceSniffer](https://github.com/redtrillix/SpaceSniffer) - SpaceSniffer is a freeware disk space analyzer for Windows that make use of the Treemap concept to view the current disk usage.
@@ -1688,7 +1688,7 @@
 - [bestK/cursor-fake-machine](https://github.com/bestK/cursor-fake-machine) - 
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
-- [gothinkster/realworld](https://github.com/gothinkster/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
+- [realworld-apps/realworld](https://github.com/realworld-apps/realworld) - "The mother of all demo apps" — Exemplary fullstack Medium.com clone powered by React, Angular, Node, Django, and many more
 - [tastejs/todomvc](https://github.com/tastejs/todomvc) - Helping you select a JavaScript framework - Todo apps for React.js, Angular, Vue and many more
 - [richards199999/Thinking-Claude](https://github.com/richards199999/Thinking-Claude) - Let your Claude able to think
 - [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+
