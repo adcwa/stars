@@ -386,8 +386,8 @@
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
 - [topoteretes/cognee](https://github.com/topoteretes/cognee) - Knowledge Engine for AI Agent Memory in 6 lines of code
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - CLI-Anything: Making ALL Software Agent-Native
-- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs, and Docker/Kubernetes runtimes for scenarios like Coding Agents, GUI Agents, 
-- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents, it handles different levels of tasks that could take minutes t
+- [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
+- [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that coul
 - [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) - Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.
 - [AsyncFuncAI/AsyncReview](https://github.com/AsyncFuncAI/AsyncReview) - Open-source Agentic code review tool inspired by DevinReview, using Recursive Language Models (RLM)
 - [AsyncFuncAI/deepwiki-open](https://github.com/AsyncFuncAI/deepwiki-open) - Open Source DeepWiki: AI-Powered Wiki Generator for GitHub/Gitlab/Bitbucket Repositories. Join the discord: https://discord.gg/gMwThUMeme
@@ -492,7 +492,7 @@
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [tatsu-lab/stanford_alpaca](https://github.com/tatsu-lab/stanford_alpaca) - Code and documentation to train Stanford's Alpaca models, and generate the data.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.
 - [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) - Instant voice cloning by MIT and MyShell. Audio foundation model.
 - [advaitpaliwal/insight](https://github.com/advaitpaliwal/insight) - 
 - [LlamaFamily/Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) - Llama中文社区，实时汇总最新Llama学习资料，构建最好的中文Llama大模型开源生态，完全开源可商用
@@ -679,7 +679,7 @@
 - [musistudio/claude-code-router](https://github.com/musistudio/claude-code-router) - Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic.
 - [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
-- [dtyq/magic](https://github.com/dtyq/magic) - Super Magic. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
+- [dtyq/magic](https://github.com/dtyq/magic) - Magicrew. The first open-source all-in-one AI productivity platform (Generalist AI Agent + Workflow Engine + IM + Online collaborative office system)
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The Open Source Cowork Desktop to Unlock Your Exceptional Productivity. Local and Free Alternative to Claude Cowork.
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
