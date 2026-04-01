@@ -291,7 +291,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Folo is the AI RSS Reader
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
@@ -336,7 +336,7 @@
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [appcypher/awesome-mcp-servers](https://github.com/appcypher/awesome-mcp-servers) - Awesome MCP Servers - A curated list of Model Context Protocol servers
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases
 - [AgentDeskAI/browser-tools-mcp](https://github.com/AgentDeskAI/browser-tools-mcp) - Monitor browser logs directly from Cursor and other MCP compatible IDEs.
 - [patchy631/ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub) - In-depth tutorials on LLMs, RAGs and real-world AI agent applications.
@@ -408,7 +408,7 @@
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
 - [simular-ai/Agent-S](https://github.com/simular-ai/Agent-S) - Agent S: an open agentic framework that uses computers like a human
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [reworkd/AgentGPT](https://github.com/reworkd/AgentGPT) - 🤖 Assemble, configure, and deploy autonomous AI Agents in your browser.
@@ -590,7 +590,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - Agentic IM Chatbot infrastructure that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper) - 🚀 Desktop tool for extracting code context to enhance AI-assisted development. Visualize project structure, export multiple files with one-click, and get more accurate suggestions from AI assistants w
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [Kilo-Org/kilocode](https://github.com/Kilo-Org/kilocode) - Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent. #1 coding agent on OpenRouter. 1.5M+ Kilo Coders. 25T+ tokens proce
@@ -707,7 +707,7 @@
 
 ## crawler 
 
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [TeamWiseFlow/wiseflow](https://github.com/TeamWiseFlow/wiseflow) - enhance any agent's browser use skill
 
 ## cryptocurrency 
@@ -951,7 +951,7 @@
 ## generative-ai 
 
 - [saturndec/waoowaoo](https://github.com/saturndec/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [coze-dev/coze-studio](https://github.com/coze-dev/coze-studio) - An AI agent development platform with all-in-one visual tools, simplifying agent creation, debugging, and deployment like never before. Coze your way to AI Agent creation.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -1250,7 +1250,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
@@ -1281,7 +1281,7 @@
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
 - [lastmile-ai/mcp-agent](https://github.com/lastmile-ai/mcp-agent) - Build effective agents using Model Context Protocol and simple workflow patterns
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 - [Canner/WrenAI](https://github.com/Canner/WrenAI) - Open-source text-to-SQL and text-to-chart GenBI agent with a semantic layer. Ask your database questions in natural language — get accurate SQL, charts, and BI insights. Supports 12+ data sources (Pos
@@ -1396,7 +1396,7 @@
 - [codexu/note-gen](https://github.com/codexu/note-gen) - A cross-platform Markdown AI note-taking software.
 - [jekyll/jekyll](https://github.com/jekyll/jekyll) - :globe_with_meridians: Jekyll is a blog-aware static site generator in Ruby
 - [microsoft/markitdown](https://github.com/microsoft/markitdown) - Python tool for converting files and office documents to Markdown.
-- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Turn entire websites into LLM-ready markdown or structured data
+- [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - 🔥 The Web Data API for AI - Power AI agents with clean web data
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://discuss.logseq.com/t/logseq-product-roadmap
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
@@ -1614,7 +1614,7 @@
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot) - Bytebot is a self-hosted AI desktop agent that automates computer tasks through natural language commands, operating within a containerized Linux desktop environment.
 - [SoraWebui/SoraWebui](https://github.com/SoraWebui/SoraWebui) - SoraWebui is an open-source Sora web client, enabling users to easily create videos from text with OpenAI's Sora model.
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
@@ -1667,6 +1667,7 @@
 
 ## others 
 
+- [instructkr/claw-code](https://github.com/instructkr/claw-code) - The fastest repo in history to surpass 50K stars ⭐, reaching the milestone in just 2 hours after publication. Better Harness Tools, not merely storing the archive of leaked Claude Code but make real t
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
@@ -1948,7 +1949,7 @@
 
 ## prompt-engineering 
 
-- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Collection of extracted System Prompts from popular chatbots like ChatGPT, Claude & Gemini
+- [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from ChatGPT (GPT-5.4, GPT-5.3, Codex), Claude (Opus 4.6, Sonnet 4.6, Claude Code), Gemini (3.1 Pro, 3 Flash, CLI), Grok (4.2, 4), Perplexity, and more. Updated regularly.
 - [CyberAlbSecOP/Awesome_GPT_Super_Prompting](https://github.com/CyberAlbSecOP/Awesome_GPT_Super_Prompting) - ChatGPT Jailbreaks, GPT Assistants Prompt Leaks, GPTs Prompt Injection, LLM Prompt Security, Super Prompts, Prompt Hack, Prompt Security, Ai Prompt Engineering, Adversarial Machine Learning.
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - This repository offers a comprehensive collection of tutorials and implementations for Prompt Engineering techniques, ranging from fundamental concepts to advanced strategies. It serves as an essentia
 - [Eladlev/AutoPrompt](https://github.com/Eladlev/AutoPrompt) - A framework for prompt tuning using Intent-based Prompt Calibration
@@ -2184,6 +2185,7 @@
 - [getumbrel/llama-gpt](https://github.com/getumbrel/llama-gpt) - A self-hosted, offline, ChatGPT-like chatbot. Powered by Llama 2. 100% private, with no data leaving your device. New: Code Llama support!
 - [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
 - [ToolJet/ToolJet](https://github.com/ToolJet/ToolJet) - ToolJet is the open-source foundation of ToolJet AI - the AI-native platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀
+- [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 
 ## server 
 
