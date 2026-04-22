@@ -36,10 +36,10 @@
 - [TSQL](#tsql)
 - [TypeScript](#typescript)
 - [Vue](#vue)
-- [Zig](#zig)
 
 ## C 
 
+- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 - [ycrash/yc-360-script](https://github.com/ycrash/yc-360-script) - yc-360 Script is a lightweight diagnostic script that captures comprehensive troubleshooting artifacts like Application logs, GC logs, thread dumps, heap dumps, OS-level metrics across various environ
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [oracle/python-cx_Oracle](https://github.com/oracle/python-cx_Oracle) - Obsolete Python interface to Oracle Database, now superseded by python-oracledb
@@ -583,7 +583,7 @@
 ## Rust 
 
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - The blackboard for coding agents — from idea to merge, hands-free
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [tyrchen/wx-uploader](https://github.com/tyrchen/wx-uploader) - 
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
@@ -640,6 +640,7 @@
 
 ## TypeScript 
 
+- [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
@@ -828,10 +829,6 @@
 - [jayZOU/vue-big-tree](https://github.com/jayZOU/vue-big-tree) - Used to render big data tree components
 - [niefy/wx-manage](https://github.com/niefy/wx-manage) - 🔥微信公众号管理系统，包含公众号菜单管理🗄、自动回复🗨、素材管理📂、模板消息☘、粉丝管理🤹‍♂️等功能，前后端都开源免费🛩
 - [zhoutaoo/SpringCloud-Admin](https://github.com/zhoutaoo/SpringCloud-Admin) - 微服务后台通用管理系统
-
-## Zig 
-
-- [lightpanda-io/browser](https://github.com/lightpanda-io/browser) - Lightpanda: the headless browser designed for AI and automation
 
 
 ## License
