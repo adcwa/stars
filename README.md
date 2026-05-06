@@ -199,7 +199,6 @@
 - [bonigarcia/rate-my-cat](https://github.com/bonigarcia/rate-my-cat) - Sample application for the book "Mastering Software Testing with JUnit 5"
 - [bonigarcia/mastering-junit5](https://github.com/bonigarcia/mastering-junit5) - Examples of the Packt book "Mastering Software Testing with JUnit 5: Comprehensive guide to develop high quality Java applications"
 - [cq1228/junit5TestCodeHelper](https://github.com/cq1228/junit5TestCodeHelper) - 
-- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [WeiYe-Jing/datax-web](https://github.com/WeiYe-Jing/datax-web) - DataX集成可视化页面，选择数据源即可一键生成数据同步任务，支持RDBMS、Hive、HBase、ClickHouse、MongoDB等数据源，批量创建RDBMS数据同步任务，集成开源调度系统，支持分布式、增量同步数据、实时查看运行日志、监控执行器资源、KILL运行进程、数据源信息加密等。
 - [alibaba/DataX](https://github.com/alibaba/DataX) - DataX是阿里云DataWorks数据集成的开源版本。
 - [liyupi/sql-father-backend-public](https://github.com/liyupi/sql-father-backend-public) - 新项目：快速生成 SQL 和模拟数据的网站（Java 后端），大幅提高开发测试效率！by 程序员鱼皮
@@ -570,6 +569,7 @@
 - [openai/plugins-quickstart](https://github.com/openai/plugins-quickstart) - Get a ChatGPT plugin up and running in under 5 minutes!
 - [circlestarzero/EX-chatGPT](https://github.com/circlestarzero/EX-chatGPT) - Let ChatGPT truly learn how to go online and call APIs! 'EX-ChatGPT' can rival and even surpass NewBing
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
+- [datahub-project/datahub](https://github.com/datahub-project/datahub) - The Context Platform for your Data and AI Stack
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [yumingj/Text2Human](https://github.com/yumingj/Text2Human) - Code for Text2Human (SIGGRAPH 2022). Paper: Text2Human: Text-Driven Controllable Human Image Generation
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
