@@ -86,6 +86,7 @@
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
+- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
@@ -604,7 +605,7 @@
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
-- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, text-to-sql, dashboards, and advanced analytics.
+- [Canner/WrenAI](https://github.com/Canner/WrenAI) - The open context layer that gives AI agents grounded, governed SQL across 20+ data sources, that helps you build GenBI, agentic BI, text-to-sql, dashboards, and agentic analytics.
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [TabbyML/tabby](https://github.com/TabbyML/tabby) - Self-hosted AI coding assistant
@@ -659,7 +660,6 @@
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
-- [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
 - [CodePhiliaX/youclaw](https://github.com/CodePhiliaX/youclaw) - 🦞 Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.
