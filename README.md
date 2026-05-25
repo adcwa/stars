@@ -90,7 +90,7 @@
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [geekjourneyx/md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill) - Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布
 - [usememos/memos](https://github.com/usememos/memos) - Open-source, self-hosted note-taking tool built for quick capture. Markdown-native, lightweight, and fully yours.
-- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your personal AI trading assistant. Any market. Any model. Pay with USDC, not API keys.
+- [NoFxAiOS/nofx](https://github.com/NoFxAiOS/nofx) - Your AI trading terminal assistant for US stocks, commodities, forex, and crypto.
 - [danielmiessler/Fabric](https://github.com/danielmiessler/Fabric) - Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere.
 - [Wsine/feishu2md](https://github.com/Wsine/feishu2md) - 一键命令下载飞书文档为 Markdown（寻找维护者）
 - [ghuntley/how-to-build-a-coding-agent](https://github.com/ghuntley/how-to-build-a-coding-agent) - A workshop that teaches you how to build your own coding agent. Similar to Roo code, Cline, Amp, Cursor, Windsurf or OpenCode.
@@ -333,7 +333,7 @@
 - [ebertti/awesome-telegram](https://github.com/ebertti/awesome-telegram) - Collection great groups, channels, bots and libraries for Telegram
 - [CloudAI-X/threejs-skills](https://github.com/CloudAI-X/threejs-skills) - 
 - [redtrillix/SpaceSniffer](https://github.com/redtrillix/SpaceSniffer) - SpaceSniffer is a freeware disk space analyzer for Windows that make use of the Treemap concept to view the current disk usage.
-- [microsoft/vscode-ai-toolkit](https://github.com/microsoft/vscode-ai-toolkit) - 
+- [microsoft/foundry-toolkit](https://github.com/microsoft/foundry-toolkit) - 
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Opus 4.7, Opus 4.6, Sonnet 4.6. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google Gemini - 3.5 Flash, 3.1 Pro, 3 Flash, Antigravity. xAI - Grok. G
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [LichAmnesia/GPT-Prompt-Hub](https://github.com/LichAmnesia/GPT-Prompt-Hub) - GPT-Prompt-Hub is an open-source community-driven repository dedicated to the collection, sharing, and refinement of custom GPT prompts
@@ -391,6 +391,8 @@
 
 ## Python 
 
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates natively editable PPTX from any document — real PowerPoint shapes with native animations, not images · by Hugo He
+- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [335234131/agent-browser-mcp](https://github.com/335234131/agent-browser-mcp) - 让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入
 - [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
@@ -596,7 +598,7 @@
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi agent session toolbox for claude code, cursor, codex, gemini
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-agent session-toolbox for claude code, cursor, codex, gemini
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [tyrchen/wx-uploader](https://github.com/tyrchen/wx-uploader) - 
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
@@ -654,7 +656,7 @@
 
 ## TypeScript 
 
-- [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
+- [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, OpenCode, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
 - [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
