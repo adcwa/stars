@@ -393,6 +393,7 @@
 
 ## Python 
 
+- [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
 - [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · b
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。
@@ -413,7 +414,7 @@
 - [monk1337/clicodelog](https://github.com/monk1337/clicodelog) - Browse & Inspect CLI agents : Claude Code, Codex, Gemini CLI code & conversation history
 - [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) - The batteries-included agent harness.
 - [aiming-lab/AutoResearchClaw](https://github.com/aiming-lab/AutoResearchClaw) - Fully autonomous & self-evolving research from idea to paper. Chat an Idea. Get a Paper. 🦞
-- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory control plane for AI Agents in 6 lines of code
+- [topoteretes/cognee](https://github.com/topoteretes/cognee) - Memory platform for AI Agents in 6 lines of code
 - [HKUDS/CLI-Anything](https://github.com/HKUDS/CLI-Anything) - "CLI-Anything: Making ALL Software Agent-Native" -- CLI-Hub: https://clianything.cc/
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
@@ -626,6 +627,7 @@
 
 ## Shell 
 
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac from the terminal.
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .claude directory.
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, a
@@ -680,7 +682,7 @@
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
 - [tanweai/pua](https://github.com/tanweai/pua) - 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement.
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade archite
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm 
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [neutree-ai/openapi-to-skills](https://github.com/neutree-ai/openapi-to-skills) - OpenAPI to Agent Skill for context-efficient AI agents
@@ -696,7 +698,7 @@
 - [caiqinghua/Open-Claude-Cowork](https://github.com/caiqinghua/Open-Claude-Cowork) - OpenSource Claude Code Cowork lets you can use Claude Cowork with GLM4.7 or MinMax2.1. Claude Code for the rest of your work. Cowork lets you complete non-technical tasks much like how developers use 
 - [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the one and only agent harness for complex codebases; the pickaxe for complex software engineering
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
