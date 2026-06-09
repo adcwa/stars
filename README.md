@@ -74,6 +74,7 @@
 
 ## Dockerfile 
 
+- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 
 ## Elixir 
@@ -82,7 +83,7 @@
 
 ## Go 
 
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native t
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [larksuite/cli](https://github.com/larksuite/cli) - The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meeti
 - [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) - Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from
@@ -455,7 +456,6 @@
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [SuperClaude-Org/SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework) - A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies.
 - [noopstudios/interactive-feedback-mcp](https://github.com/noopstudios/interactive-feedback-mcp) - Interactive User Feedback MCP
-- [mindsdb/minds-platform](https://github.com/mindsdb/minds-platform) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -601,13 +601,14 @@
 
 ## Rust 
 
+- [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
 - [Hmbown/CodeWhale](https://github.com/Hmbown/CodeWhale) - DeepSeek + MiMo coding agent in terminal
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - Coding Agent Harness
 - [jlcodes99/cockpit-tools](https://github.com/jlcodes99/cockpit-tools) - 🚀 通用 AI IDE 账号管理工具：支持 Antigravity / Codex / GitHub Copilot / Windsurf / Kiro / Cursor / Gemini-cli / CodeBuddy，多账号切换、配额监控、自动唤醒与多开实例管理。 🚀 Universal AI IDE account manager for Antigravity / Codex / GitH
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - An agent-managed museum exhibit, built in Rust with Gajae-Code / LazyCodex — developed and maintained with no human intervention.
 - [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - 🏄🏼‍♂️ The blackboard for coding agents - multi-agent session-toolbox for claude code, cursor, codex, gemini
 - [clockworklabs/SpacetimeDB](https://github.com/clockworklabs/SpacetimeDB) - Development at the speed of light
 - [tyrchen/wx-uploader](https://github.com/tyrchen/wx-uploader) - 
@@ -675,7 +676,7 @@
 - [rohitg00/agentmemory](https://github.com/rohitg00/agentmemory) - #1 Persistent memory for AI coding agents based on real-world benchmarks
 - [colbymchenry/codegraph](https://github.com/colbymchenry/codegraph) - Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local
 - [EKKOLearnAI/hermes-web-ui](https://github.com/EKKOLearnAI/hermes-web-ui) - Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics
-- [Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) - Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.
 - [mem9-ai/mem9](https://github.com/mem9-ai/mem9) - Unlimited memory for OpenClaw
@@ -704,7 +705,7 @@
 - [caiqinghua/Open-Claude-Cowork](https://github.com/caiqinghua/Open-Claude-Cowork) - OpenSource Claude Code Cowork lets you can use Claude Cowork with GLM4.7 or MinMax2.1. Claude Code for the rest of your work. Cowork lets you complete non-technical tasks much like how developers use 
 - [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free
 - [thedotmack/claude-mem](https://github.com/thedotmack/claude-mem) - Persistent Context Across Sessions for Every Agent –  Captures everything your agent does during sessions, compresses it with AI, and injects relevant context back into future sessions. Works with Cla
-- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex; the one and only agent harness for complex codebases. the pickaxe for complex software engineering. For your Codex, for your OpenCode
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
 - [mcp-router/mcp-router](https://github.com/mcp-router/mcp-router) - A Unified MCP Server Management App (MCP Manager).
 - [SawyerHood/dev-browser](https://github.com/SawyerHood/dev-browser) - A Claude Skill to give your agent the ability to use a web browser
 - [tiann/hapi](https://github.com/tiann/hapi) - App for Claude Code / Codex / Gemini / OpenCode, vibe coding anytime, anywhere
