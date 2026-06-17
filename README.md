@@ -20,6 +20,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Kotlin](#kotlin)
+- [Makefile](#makefile)
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
@@ -74,7 +75,6 @@
 
 ## Dockerfile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 - [jaywcjlove/reference](https://github.com/jaywcjlove/reference) - 面向开发者的技术速查清单（Cheat Sheets）集合，整理常见技术、工具与开发流程，帮助快速查阅关键信息，提高开发效率。
 
 ## Elixir 
@@ -227,6 +227,7 @@
 
 ## JavaScript 
 
+- [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [cs68614-hash/accio-injector](https://github.com/cs68614-hash/accio-injector) - 
 - [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
 - [QLHazyCoder/FlowPilot](https://github.com/QLHazyCoder/FlowPilot) - Chrome扩展：支持Codex(自动开通plus账号) / kiro 注册、验证码获取、CPA/sub回调验证与自动恢复
@@ -322,6 +323,10 @@
 - [AllenTom/diffusion-client](https://github.com/AllenTom/diffusion-client) - a powerful stable-diffusion-webui client for android
 - [JetBrains/intellij-platform-plugin-template](https://github.com/JetBrains/intellij-platform-plugin-template) - Template repository for creating plugins for IntelliJ Platform
 - [alibaba/p3c](https://github.com/alibaba/p3c) - Alibaba Java Coding Guidelines pmd implements and IDE plugin
+
+## Makefile 
+
+- [mindsdb/minds](https://github.com/mindsdb/minds) - General-purpose AI designed for knowledge workers — creators, strategists, and operators — and individuals seeking AI systems they can truly control to help them get work done, with full flexibility t
 
 ## Markdown 
 
@@ -699,7 +704,7 @@
 - [waooAI/waoowaoo](https://github.com/waooAI/waoowaoo) - 首家工业级全流程 AI 影视生产平台。Industry-first professional AI Agent platform for controllable film & video production. From shorts to live-action with Hollywood-standard workflows.
 - [openclaw/clawhub](https://github.com/openclaw/clawhub) - Skill + Plugin Registry for OpenClaw
 - [neutree-ai/openapi-to-skills](https://github.com/neutree-ai/openapi-to-skills) - OpenAPI to Agent Skill for context-efficient AI agents
-- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interacti
+- [abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus) - GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local)
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [FxEmbed/FxEmbed](https://github.com/FxEmbed/FxEmbed) - Fix X/Twitter and Bluesky embeds! Use multiple images, videos, polls, translations and more on Discord, Telegram and others
 - [crabwise-ai/crabwalk](https://github.com/crabwise-ai/crabwalk) - 🦀 Crabwalk 🦀 Real-time companion monitor for OpenClaw agents.
