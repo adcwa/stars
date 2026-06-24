@@ -674,7 +674,7 @@
 
 ## Swift 
 
-- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications. Built for AI coding agents and programmability.
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 
