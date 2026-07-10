@@ -221,7 +221,7 @@
 - [springside/springside4](https://github.com/springside/springside4) - A Spring Framework based, pragmatic style JavaEE application reference architecture.
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI 低代码平台「低代码 + 零代码」双驱动！低代码可一键生成前后端代码;零代码可 5 分钟搭建系统;AI Skills 一句话画流程、设计表单、生成整套系统。内置 AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领「AI 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，消除 Java 项目 80% 的重复工作，提效而不失灵活。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [mrcoderzou/CommInterface](https://github.com/mrcoderzou/CommInterface) - 项目初始化
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
@@ -331,7 +331,7 @@
 
 ## Makefile 
 
-- [mindsdb/minds](https://github.com/mindsdb/minds) - Delegate anything. It comes back done.
+- [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - Make AI do actual work. Swap the model anytime — keep everything you've built.
 
 ## Markdown 
 
@@ -478,7 +478,7 @@
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage agent platforms.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Build, run, and manage your own agent platform.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [NanGePlus/ReActAgentsTest](https://github.com/NanGePlus/ReActAgentsTest) - 此仓库存储我在YouTube频道和B站频道关于AI Agent相关分享，所有资源全部开源免费
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
