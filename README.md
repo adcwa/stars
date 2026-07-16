@@ -223,7 +223,7 @@
 - [springside/springside4](https://github.com/springside/springside4) - A Spring Framework based, pragmatic style JavaEE application reference architecture.
 - [checkstyle/checkstyle](https://github.com/checkstyle/checkstyle) - Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly confi
 - [pmd/pmd](https://github.com/pmd/pmd) - An extensible multilanguage static code analyzer.
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码迈入 v2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 【低代码 V2.0】AI低代码平台，AI Skills 一句话生成整个系统；一键生成前后端代码甚至整个模块。 AI Skills 一句话画流程、设计表单、生成报表、大屏。内置 AI应用平台涵盖：AI聊天、知识库、流程编排、MCP插件等，兼容主流大模型。引领AI低代码「Skills 生成 → 在线配置 → 代码生成 → 手工合并-&gt;AI修改」开发模式，解决 Java 项目 90% 重复工作，提
 - [chinabugotech/hutool](https://github.com/chinabugotech/hutool) - 🍬A set of tools that keep Java sweet.
 - [mrcoderzou/CommInterface](https://github.com/mrcoderzou/CommInterface) - 项目初始化
 - [alibaba/druid](https://github.com/alibaba/druid) - 阿里云计算平台DataWorks(https://help.aliyun.com/document_detail/137663.html) 团队出品，为监控而生的数据库连接池
@@ -494,7 +494,7 @@
 - [NanGePlus/ReActAgentsTest](https://github.com/NanGePlus/ReActAgentsTest) - 此仓库存储我在YouTube频道和B站频道关于AI Agent相关分享，所有资源全部开源免费
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - A user-friendly, multi-platform GUI for managing and running CrewAI agents and tasks. Supports Conda and virtual environments, no coding needed.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from Reddit, YouTube, Instagram, TikTok, Google Maps, Google Search, open web etc. Join our Discord: https://d
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - NotebookLM for Competitive Intelligence Research. Give your AI agents access to live data from the Internet. Join our Discord: https://discord.gg/ejRNvftDp9
 - [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. 🔔 Official updates only via twitter @Martin9938
 - [alecm20/story-flicks](https://github.com/alecm20/story-flicks) - 使用AI大模型，一键生成高清故事短视频。Generate high-definition story short videos with one click using AI large models.
