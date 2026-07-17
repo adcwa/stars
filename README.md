@@ -419,6 +419,7 @@
 
 ## Python 
 
+- [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [huggingface/tau](https://github.com/huggingface/tau) - a minimalist agent that teaches you to create coding agents
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
@@ -428,7 +429,7 @@
 - [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) - "ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)"
-- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI generates a real, editable PowerPoint from any document — native shapes & animations, editable charts & tables you can change the data on, speaker notes voiced as audio narration, and the option to
+- [hugohe3/ppt-master](https://github.com/hugohe3/ppt-master) - AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support
 - [zhinianboke/xianyu-auto-reply](https://github.com/zhinianboke/xianyu-auto-reply) - 闲鱼自动回复管理系统是一个基于 Python + FastAPI 开发的自动化客服系统，专为闲鱼平台设计。系统通过 WebSocket 连接闲鱼服务器，实时接收和处理消息，提供智能化的自动回复服务。同时集成闲鱼自动发货，自动评价，自动擦亮等功能，实现闲鱼虚拟商品自动化流程。
 - [datawhalechina/hello-agents](https://github.com/datawhalechina/hello-agents) - 📚 《从零开始构建智能体》——从零开始的智能体原理与实践教程
 - [335234131/agent-browser-mcp](https://github.com/335234131/agent-browser-mcp) - 让 Agent 直接操作真实 Chrome 的 MCP 服务，支持页面扫描、CDP、截图与物理输入
@@ -633,6 +634,7 @@
 
 ## Rust 
 
+- [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
@@ -700,6 +702,7 @@
 
 ## TypeScript 
 
+- [firecrawl/open-lovable](https://github.com/firecrawl/open-lovable) - 🔥 Clone and recreate any website as a modern React app in seconds
 - [a2ui-project/a2ui](https://github.com/a2ui-project/a2ui) - 
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.
