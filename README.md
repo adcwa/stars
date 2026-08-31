@@ -60,7 +60,7 @@
 
 - [wang161113/KeyPresserHardware](https://github.com/wang161113/KeyPresserHardware) - KeyPresser Hardware 是一款功能强大的自动化操作工具，通过 Arduino 硬件设备实现键盘模拟、鼠标操作等自动化功能。
 - [LadybirdBrowser/ladybird](https://github.com/LadybirdBrowser/ladybird) - Truly independent web browser
-- [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌 韩国车牌(South Korea LPR)识别  代码开源，方便移植嵌入式和安卓端使用，支持12种车牌识别，支持港澳车牌识别，支持大角度车牌识别，准确率高达99%+
+- [pcb9382/PlateRecognition](https://github.com/pcb9382/PlateRecognition) - 高性能 高精度 大陆车牌、港澳车牌、台湾车牌、韩国车牌、美国、欧盟车牌识别 代码开源，方便移植嵌入式、安卓、鸿蒙、IOS端使用，支持大角度车牌识别，准确率高达99%+ High-Performance, High-Accuracy License Plate Recognition  Supports license plate recognition for Mainland China, Ho
 - [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) - Swift API for MLX
 - [tensorflow/tensorflow](https://github.com/tensorflow/tensorflow) - An Open Source Machine Learning Framework for Everyone
 
