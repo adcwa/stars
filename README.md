@@ -362,10 +362,10 @@
 ## Others 
 
 - [mahonzhan/awesome-agent-harness](https://github.com/mahonzhan/awesome-agent-harness) - A curated awesome list of agent harnesses, agent frameworks, workflow frameworks, and emerging agent protocols.
-- [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [darcyegb/ClaudeCodeAgents](https://github.com/darcyegb/ClaudeCodeAgents) - A set of useful QA agents for Claude Code.
+- [ai-ppt-template/free-ppt-template](https://github.com/ai-ppt-template/free-ppt-template) - Free AI PPT Templates — 4,000+ AI-generated presentation templates for any deck. Works with PowerPoint, Google Slides, Keynote, LibreOffice Impress, WPS Office, and more.
 - [hesamsheikh/awesome-openclaw-usecases](https://github.com/hesamsheikh/awesome-openclaw-usecases) - A community collection of OpenClaw use cases for making life easier.
 - [VoltAgent/awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills) - The awesome collection of OpenClaw skills. 5,400+ skills filtered and categorized from the official OpenClaw Skills Registry.🦞
 - [maguowei/awesome-stars](https://github.com/maguowei/awesome-stars) - My Awesome List
@@ -680,6 +680,7 @@
 
 ## SCSS 
 
+- [mahonzhan/awesome-coding-plan](https://github.com/mahonzhan/awesome-coding-plan) - 各厂家 Coding Plan 实际价值对比
 - [adcwa/adcwa.github.io](https://github.com/adcwa/adcwa.github.io) - 
 - [sujaykundu777/devlopr-jekyll](https://github.com/sujaykundu777/devlopr-jekyll) - (FREE SITE GENERATOR) - A Customizable/Hackable portfolio jekyll theme where you can blog using Markdown or CMS :rocket: in minutes built for developers. (with CMS) ✨
 
@@ -752,7 +753,6 @@
 - [Yeachan-Heo/oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex) - OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more.
 - [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - The open-source app everyone uses to manage agents at work
-- [OtterMind/youclaw](https://github.com/OtterMind/youclaw) - 🦞 Your AI Personal Assistant.  An intelligent assistant with memory, skills, and scheduled tasks that truly understands you . Helping you tackle everything in work and life.
 - [agentlabs-dev/auto-inspector](https://github.com/agentlabs-dev/auto-inspector) - Web Testing AI Agent - Write your specs, it does the rest
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
 - [jhipster/generator-jhipster](https://github.com/jhipster/generator-jhipster) - JHipster is a development platform to quickly generate, develop, & deploy modern web applications & microservice architectures.
