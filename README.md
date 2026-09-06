@@ -138,6 +138,7 @@
 ## HTML 
 
 - [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - 38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [op7418/guizang-ppt-skill](https://github.com/op7418/guizang-ppt-skill) - AI-agent Skill for generating polished HTML slide decks: editorial magazine and Swiss layouts, image prompts, social covers, and a WebGL/low-power presentation runtime.
 - [kevinho/clawfeed](https://github.com/kevinho/clawfeed) - ClawFeed — AI-powered news digest with structured summaries from Twitter/RSS feeds and web dashboard
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
@@ -259,7 +260,6 @@
 - [TonyGermaneri/canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid) - Canvas based data grid web component.  Capable of displaying millions of contiguous hierarchical rows and columns without paging or loading, on a single canvas element.
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
 - [microsoft/foundry-dev-tools](https://github.com/microsoft/foundry-dev-tools) - 
-- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Extracted system prompts from Anthropic - Claude Fable 5, Opus 5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-5.6-Sol, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, 
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
@@ -436,7 +436,6 @@
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
 - [huggingface/tau](https://github.com/huggingface/tau) - A Python port of Pi’s minimalist coding agent.
-- [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - [vectorize-io/hindsight](https://github.com/vectorize-io/hindsight) - Hindsight: Agent Memory That Learns
 - [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
@@ -488,6 +487,7 @@
 - [sansan0/TrendRadar](https://github.com/sansan0/TrendRadar) - ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，
 - [resemble-ai/chatterbox](https://github.com/resemble-ai/chatterbox) - SoTA open-source TTS
 - [QuentinFuxa/WhisperLiveKit](https://github.com/QuentinFuxa/WhisperLiveKit) - Real-time, local speech-to-text with streaming ASR, speaker diarization, translation, and OpenAI/Deepgram-compatible APIs.
+- [bmad-code-org/BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD) - Breakthrough Method for Agile Ai Driven Development
 - [santinic/audiblez](https://github.com/santinic/audiblez) - Generate audiobooks from e-books
 - [microsoft/agent-lightning](https://github.com/microsoft/agent-lightning) - The absolute trainer to light up AI agents.
 - [HKUDS/DeepCode](https://github.com/HKUDS/DeepCode) - "DeepCode: Open Agentic Coding (Agent Harness & Loop Engineering & Multi-Agent Orchestration)"
@@ -669,6 +669,7 @@
 - [vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser) - Browser automation CLI for AI agents
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦网(大麦）、bilibili(B站)会员购 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp) - 📦️ A fast, secure MCP server that extends its capabilities through WebAssembly plugins.
@@ -910,7 +911,6 @@
 ## Vue 
 
 - [liu-ziting/what-to-eat](https://github.com/liu-ziting/what-to-eat) - 一饭封神：一个基于 AI 的智能菜谱生成平台，支持中华八大菜系 + 国际料理，提供营养分析、酒水推荐、菜谱效果图生成等全方位烹饪指导。
-- [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦、大麦网 演唱会抢票软件，一个基于 tauri + rust + vue 调用接口的抢票软件。
 - [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [woai3c/visual-drag-demo](https://github.com/woai3c/visual-drag-demo) - 一个低代码（可视化拖拽）教学项目
