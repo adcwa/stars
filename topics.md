@@ -76,6 +76,7 @@
 - [dsh-plugin](#dsh-plugin)
 - [education](#education)
 - [electron](#electron)
+- [embedded](#embedded)
 - [english](#english)
 - [esp32](#esp32)
 - [fastapi](#fastapi)
@@ -1276,12 +1277,17 @@
 - [toeverything/AFFiNE](https://github.com/toeverything/AFFiNE) - There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and r
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
+## embedded 
+
+- [lokutor-ai/oido](https://github.com/lokutor-ai/oido) - Oído: open-vocabulary speech recognition that fits in a $5 ESP32-S3. 3.7% LibriSpeech WER, no cloud, no NPU.
+
 ## english 
 
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 
 ## esp32 
 
+- [lokutor-ai/oido](https://github.com/lokutor-ai/oido) - Oído: open-vocabulary speech recognition that fits in a $5 ESP32-S3. 3.7% LibriSpeech WER, no cloud, no NPU.
 - [ruvnet/RuView](https://github.com/ruvnet/RuView) - π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.
 
 ## fastapi 
@@ -2724,6 +2730,7 @@
 
 ## rust 
 
+- [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
