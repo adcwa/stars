@@ -273,7 +273,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [stagewise-io/stagewise](https://github.com/stagewise-io/stagewise) - The Open Source Agentic IDE. Create and orchestrate coding agents, show app previews and run git workflows. Use your favorite models across all providers.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
 - [ageerle/ruoyi-ai](https://github.com/ageerle/ruoyi-ai) - Enterprise-grade AI agent framework with multi-provider LLM management, secure knowledge bases and high-precision RAG, visual workflow orchestration, and multi-agent coordination.
@@ -311,7 +311,7 @@
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus o
 - [KKKKhazix/khazix-skills](https://github.com/KKKKhazix/khazix-skills) - 数字生命卡兹克开源的 AI Skills 合集 | Agent Skills: leader（帮你定义目标）, neat-freak 洁癖, hv-analysis, khazix-writer & more — Claude Code, Codex & 40+ agents
@@ -348,7 +348,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
 - [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - A user-friendly, multi-platform GUI for managing and running CrewAI agents and tasks. Supports Conda and virtual environments, no coding needed.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
@@ -447,9 +447,9 @@
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [strnad/CrewAI-Studio](https://github.com/strnad/CrewAI-Studio) - A user-friendly, multi-platform GUI for managing and running CrewAI agents and tasks. Supports Conda and virtual environments, no coding needed.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [Fosowl/agenticSeek](https://github.com/Fosowl/agenticSeek) - Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
@@ -555,7 +555,7 @@
 - [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
 - [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto) - Memory that AI Agents Love!
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
@@ -795,7 +795,7 @@
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - OmO: Just type "mass ulw" keyword with your prompt. Now you are the master of graph engineering.
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨
 - [sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper) - 🚀 Desktop tool for extracting code context to enhance AI-assisted development. Visualize project structure, export multiple files with one-click, and get more accurate suggestions from AI assistants w
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
@@ -887,7 +887,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex, Cursor, OpenCode, GitHub Copilot, Google Antigravity, and Pi
 - [sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper) - 🚀 Desktop tool for extracting code context to enhance AI-assisted development. Visualize project structure, export multiple files with one-click, and get more accurate suggestions from AI assistants w
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [NirDiamant/Prompt_Engineering](https://github.com/NirDiamant/Prompt_Engineering) - 22 prompt engineering techniques with hands-on Jupyter Notebook tutorials, from fundamental concepts to advanced strategies for leveraging LLMs.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
@@ -918,7 +918,7 @@
 
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [coreyhaines31/marketingskills](https://github.com/coreyhaines31/marketingskills) - Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
 - [OpenCoworkAI/open-cowork](https://github.com/OpenCoworkAI/open-cowork) - Open-source AI agent desktop app for Windows & macOS. One-click install Claude Code, MCP tools, and Skills — with sandbox isolation, multi-model support, and Feishu/Slack integration.
 - [iOfficeAI/OfficeCLI](https://github.com/iOfficeAI/OfficeCLI) - OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation requir
@@ -957,7 +957,7 @@
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [oraios/serena](https://github.com/oraios/serena) - A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [chatboxai/chatbox](https://github.com/chatboxai/chatbox) - Powerful AI Client
 - [mcp-use/mcp-use](https://github.com/mcp-use/mcp-use) - The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Servers for AI Agents.
 - [designcomputer/mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) - A Model Context Protocol (MCP) server that enables secure interaction with MySQL databases
@@ -1031,7 +1031,7 @@
 
 ## command-line 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 
 ## computer-science 
 
@@ -1110,7 +1110,7 @@
 
 ## data-visualization 
 
-- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
+- [cathrynlavery/diagram-design](https://github.com/cathrynlavery/diagram-design) - Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.
 - [neo4j-contrib/neovis.js](https://github.com/neo4j-contrib/neovis.js) - Neo4j + vis.js = neovis.js. Graph visualizations in the browser with data from Neo4j.
 - [edp963/davinci](https://github.com/edp963/davinci) - Davinci is a DVsaaS (Data Visualization as a Service) Platform
 - [gradio-app/gradio](https://github.com/gradio-app/gradio) - Build and share delightful machine learning apps, all in Python. 🌟 Star to support our work!
@@ -1162,7 +1162,7 @@
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [JimLiu/baoyu-design](https://github.com/JimLiu/baoyu-design) - Run Claude Design locally as an Agent Skill — Cursor, Claude Code & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best with Opus o
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 
@@ -1340,7 +1340,7 @@
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [ascoders/weekly](https://github.com/ascoders/weekly) - 前端精读周刊。帮你理解最前沿、实用的技术。
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 
@@ -1573,7 +1573,7 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [novnc/noVNC](https://github.com/novnc/noVNC) - VNC client web application
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [ElemeFE/element](https://github.com/ElemeFE/element) - A Vue.js 2.0 UI Toolkit for Web
 - [xyflow/xyflow](https://github.com/xyflow/xyflow) - React Flow | Svelte Flow - Powerful open source libraries for building node-based UIs with React (https://reactflow.dev) or Svelte (https://svelteflow.dev). Ready out-of-the-box and infinitely customi
@@ -1649,7 +1649,7 @@
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
@@ -1672,7 +1672,7 @@
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [TencentCloud/TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory) - TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, s
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - The collaboration OS for AI agents
@@ -1802,7 +1802,7 @@
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [clash-verge-rev/clash-verge-rev](https://github.com/clash-verge-rev/clash-verge-rev) - A modern GUI client based on Tauri, designed to run in Windows, macOS and Linux for tailored proxy experience
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 
@@ -1834,12 +1834,12 @@
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
 - [newmarcel/KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - Prevents your Mac from going to sleep.
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -1877,7 +1877,7 @@
 - [xbtlin/ai-berkshire](https://github.com/xbtlin/ai-berkshire) - AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-ag
 - [koala73/worldmonitor](https://github.com/koala73/worldmonitor) - Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface
 - [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Self-evolving memory OS for LLM & AI Agents: ultra-persistent memory, hybrid-retrieval, and cross-task skill reuse, with 35.24% token savings and DeepSeek Harness support.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
@@ -2031,7 +2031,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [context-space/context-space](https://github.com/context-space/context-space) - Ultimate Context Engineering Infrastructure, starting from MCPs and Integrations
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [GeekyWizKid/writing-helper](https://github.com/GeekyWizKid/writing-helper) - A Next.js-based AI writing assistant supporting multiple LLM APIs (OpenAI, Claude, Gemini, etc.) with rich style customization features to help content creators improve quality and efficiency.
 - [vercel/chatbot](https://github.com/vercel/chatbot) - A full-featured, hackable Next.js AI chatbot built by Vercel
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
@@ -2475,7 +2475,7 @@
 
 ## privacy 
 
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 
 ## productivity 
@@ -2638,7 +2638,7 @@
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [PySpur-Dev/pyspur](https://github.com/PySpur-Dev/pyspur) - A visual playground for agentic workflows: Iterate over your agents 10x faster
@@ -2676,7 +2676,7 @@
 - [dyad-sh/dyad](https://github.com/dyad-sh/dyad) - Local, open-source AI app builder for power users ✨ v0 / Lovable / Replit / Bolt alternative 🌟 Star if you like it!
 - [context-space/context-space](https://github.com/context-space/context-space) - Ultimate Context Engineering Infrastructure, starting from MCPs and Integrations
 - [ChatGPTNextWeb/NextChat](https://github.com/ChatGPTNextWeb/NextChat) - ✨ Zero-config AI chat assistant. No API key needed — sign up and instantly chat with GPT-5, Claude 4, Gemini 2.5, DeepSeek & 100+ top models. Pay-as-you-go saves you more. Available on Web, iOS, macOS
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [JOYCEQL/magic-resume](https://github.com/JOYCEQL/magic-resume) - free online AI resume editor，the only official website is  https://magicv.art
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [codesandbox/codesandbox-client](https://github.com/codesandbox/codesandbox-client) - An online IDE for rapid web development
@@ -2742,14 +2742,14 @@
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
-- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - OpenHuman is the fastest, cheapest, most efficient open-source agent harness. Written in Rust
+- [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - Open-source Rust agent engine and terminal client for Codewhale, with provider choice, tools, approvals and receipts.
 - [1jehuang/jcode](https://github.com/1jehuang/jcode) - High performance coding agent harness written in rust
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Grok Build & Hermes Agent. Only official website: ccswitch.io
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [shiyutim/tickets](https://github.com/shiyutim/tickets) - 大麦网(大麦）、bilibili(B站)会员购 演唱会调用接口的抢票软件，余票监控，微信通知。
 - [winfunc/opcode](https://github.com/winfunc/opcode) - A powerful GUI app and Toolkit for Claude Code - Create custom agents, manage interactive Claude Code sessions, run secure background agents, and more.
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2774,7 +2774,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [usememos/memos](https://github.com/usememos/memos) - A personal timeline for quick notes. Write short memos, find them later by search, tag, or date. Open source and self-hosted.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air gapped, privacy focused open source NotebookLM alternative. Join our Discord: https://discord.gg/ejRNvftDp9
+- [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - Air-gapped, privacy-focused, open-source NotebookLM alternative. AI agent that researches, transforms, and edits your documents (PDF, DOCX, XLSX, PPTX, etc.). Join our Discord: https://discord.gg/ejRN
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [m1k1o/neko](https://github.com/m1k1o/neko) - A self hosted virtual browser that runs in docker and uses WebRTC.
@@ -2798,7 +2798,7 @@
 
 ## shell 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
 
@@ -2906,7 +2906,7 @@
 ## swift 
 
 - [nikitabobko/AeroSpace](https://github.com/nikitabobko/AeroSpace) - AeroSpace is an i3-like tiling window manager for macOS
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
@@ -2914,14 +2914,14 @@
 
 ## swiftui 
 
-- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Clean, uninstall, analyze, optimize, and monitor your Mac. Free open-source CLI, plus a native Mac app.
+- [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Keep your Mac clean, light, and running like new. Fast open-source CLI, plus a native Mac app.
 - [wzh4869/AppPorts](https://github.com/wzh4869/AppPorts) - 📦 A macOS utility to seamlessly migrate applications to external storage and reclaim local disk space.【一款 macOS 工具，无缝迁移应用到外部存储并自动建立链接，释放宝贵的本地空间】
 - [dkhamsing/open-source-ios-apps](https://github.com/dkhamsing/open-source-ios-apps) - :iphone: Collaborative List of Open-Source iOS Apps
 
 ## tailwindcss 
 
 - [Open-Dev-Society/OpenStock](https://github.com/Open-Dev-Society/OpenStock) - OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [cool-team-official/cool-admin-vue](https://github.com/cool-team-official/cool-admin-vue) - 🔥 cool-admin一个很酷的后台权限管理框架，模块化、插件化、CRUD极速开发，永久开源免费，基于vue3、element-plus、pinia、vite、tailwindcss、i18n等构建
 - [AnoyiX/anoyi](https://github.com/AnoyiX/anoyi) - Anoyi's website
 
@@ -2948,7 +2948,7 @@
 - [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.
 - [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [spaceship-prompt/spaceship-prompt](https://github.com/spaceship-prompt/spaceship-prompt) - 🚀✨ Minimalistic, powerful and extremely customizable Zsh prompt
-- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 700 terminal color schemes/themes for iTerm/iTerm2. Includes ports to Terminal, Konsole, PuTTY, 
+- [mbadolato/iTerm2-Color-Schemes](https://github.com/mbadolato/iTerm2-Color-Schemes) - Our next-generation, interactive app is currently in beta!  Come try it out at terminalthemes.com! Over 750 terminal color schemes/themes for iTerm, with ports to Terminal, Konsole, PuTTY, Xresources,
 
 ## termux 
 
@@ -2964,7 +2964,7 @@
 
 ## testing 
 
-- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - GUI Agent for E2E Testing
+- [web-infra-dev/midscene](https://github.com/web-infra-dev/midscene) - See interfaces like a human. E2E testing in natural language.
 
 ## text-to-speech 
 
@@ -3013,7 +3013,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [bytedance/flowgram.ai](https://github.com/bytedance/flowgram.ai) - FlowGram is an extensible workflow development framework with built-in canvas, form, variable, and materials that helps developers build AI workflow platforms faster and simpler.
 - [continew-org/continew-admin-ui](https://github.com/continew-org/continew-admin-ui) - 全新 3.x 版本，基于 Gi Demo 前端模板开发的 ContiNew Admin 前端适配项目。
 - [GLips/Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) - MCP server to provide Figma layout information to AI coding agents like Cursor
@@ -3050,7 +3050,7 @@
 
 ## ui 
 
-- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Designers to
+- [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Developer Tool for Visual Engineers • An Open-Source AI-First Design tool • Visually build, style, and edit your code with AI • World's best, top-most agent recommended #1 Developer tool for Desig
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [Chainlit/chainlit](https://github.com/Chainlit/chainlit) - Build Conversational AI in minutes ⚡️
 - [unslothai/unsloth](https://github.com/unslothai/unsloth) - Local UI to run and train LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4, MiniMax-H3, Gemma 4, FLUX and more.
@@ -3178,7 +3178,7 @@
 - [browseros-ai/BrowserOS](https://github.com/browseros-ai/BrowserOS) - 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia.
 - [sansan0/ai-code-context-helper](https://github.com/sansan0/ai-code-context-helper) - 🚀 Desktop tool for extracting code context to enhance AI-assisted development. Visualize project structure, export multiple files with one-click, and get more accurate suggestions from AI assistants w
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [lencx/Noi](https://github.com/lencx/Noi) - 🚀 Less chaos. More flow.
 - [trycua/cua](https://github.com/trycua/cua) - Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
@@ -3206,7 +3206,7 @@
 ## youtube 
 
 - [mvanhorn/last30days-skill](https://github.com/mvanhorn/last30days-skill) - AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary
-- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any website into a tiny, fast desktop app.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [team-spotube/spotube](https://github.com/team-spotube/spotube) - 🎧 Open source music streaming app! Available for both desktop & mobile!
 
