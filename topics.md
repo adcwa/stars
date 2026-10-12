@@ -2188,6 +2188,7 @@
 
 ## others 
 
+- [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) - Open source SDK to build Muse gadgets
 - [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) - 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。
 - [robbietilton/Compositor](https://github.com/robbietilton/Compositor) - The Photoshop alternative for Mac
 - [jingw2/ontexus](https://github.com/jingw2/ontexus) - 
