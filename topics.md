@@ -346,7 +346,7 @@
 - [mindsdb/mindshub](https://github.com/mindsdb/mindshub) - The unified workspace where open-source models get things done for you.
 - [googleapis/mcp-toolbox](https://github.com/googleapis/mcp-toolbox) - MCP Toolbox for Databases is an open source MCP server for databases.
 - [langchain-ai/agents-from-scratch](https://github.com/langchain-ai/agents-from-scratch) - Build an email assistant with human-in-the-loop and memory
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
@@ -443,7 +443,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [agent0ai/agent-zero](https://github.com/agent0ai/agent-zero) - Agent Zero AI framework
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [opencode-ai/opencode](https://github.com/opencode-ai/opencode) - A powerful AI coding agent. Built for the terminal.
@@ -597,7 +597,7 @@
 - [activepieces/activepieces](https://github.com/activepieces/activepieces) - AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents
 - [asgeirtj/system_prompts_leaks](https://github.com/asgeirtj/system_prompts_leaks) - Documented system prompts from Anthropic - Claude Fable 5.1, Opus 5.5, Claude Design, Claude Code. OpenAI - ChatGPT GPT-6-Astra, Codex. Google - Gemini 3.8 Flash, 3.1 Pro, Antigravity. xAI - Grok, Gro
 - [google-gemini/gemini-cli](https://github.com/google-gemini/gemini-cli) - An open-source AI agent that brings the power of Gemini directly into your terminal.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [AgentDock/AgentDock](https://github.com/AgentDock/AgentDock) - Framework retired. Prompts and document generators moved to AgentDock/prompt-library, the book to AgentDock/ai-agents-book. See the pinned issue.
@@ -1203,7 +1203,7 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [go-dev-frame/sponge](https://github.com/go-dev-frame/sponge) - A powerful and easy-to-use Go development framework that enables you to effortlessly build stable, reliable, and high-performance backend services with a "low-code" approach.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [BandarLabs/gitpodcast](https://github.com/BandarLabs/gitpodcast) - Convert any git repository into an engaging podcast
 - [lapce/lapce](https://github.com/lapce/lapce) - Lightning-fast and Powerful Code Editor written in Rust
@@ -2580,7 +2580,7 @@
 - [GitHubDaily/GitHubDaily](https://github.com/GitHubDaily/GitHubDaily) - 坚持分享 GitHub 上高质量、有趣实用的开源技术教程、开发者工具、编程网站、技术资讯。A list cool, interesting projects of GitHub.
 - [HunxByts/GhostTrack](https://github.com/HunxByts/GhostTrack) - Useful tool to track location or mobile number
 - [openbq-org/OpenBB](https://github.com/openbq-org/OpenBB) - Open Data Platform for analysts, quants and AI agents.
-- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving platform for agents
+- [agno-agi/agno](https://github.com/agno-agi/agno) - The self-improving agent platform
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [NirDiamant/agents-towards-production](https://github.com/NirDiamant/agents-towards-production) - End-to-end, code-first tutorials for building production-grade GenAI agents. From prototype to enterprise deployment.
 - [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.
