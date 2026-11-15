@@ -253,7 +253,6 @@
 - [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘
 - [chuspeeism/dashi-taskboard](https://github.com/chuspeeism/dashi-taskboard) - 现代化可灵活嵌入的任务面板，支持 Codex、DeepSeek Harness
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
-- [JimLiu/open-artifacts](https://github.com/JimLiu/open-artifacts) - Run Claude Design locally as an Agent Skill — Cursor, Codex, DeepSeek Harness & more. Produce polished UI mockups, prototypes, decks & wireframes as self-contained HTML, without claude.ai/design. Best
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website into CLI & Use your logged-in browser by AI agent.
 - [cs68614-hash/accio-injector](https://github.com/cs68614-hash/accio-injector) - 
 - [FoundZiGu/GuJumpgate](https://github.com/FoundZiGu/GuJumpgate) - 
@@ -682,7 +681,7 @@
 - [t8y2/dbx](https://github.com/t8y2/dbx) - 25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Dock
 - [RyanCodrai/turbovec](https://github.com/RyanCodrai/turbovec) - A vector index built on TurboQuant, written in Rust with Python bindings
 - [xai-org/grok-build](https://github.com/xai-org/grok-build) - SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.
-- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows and macOS. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to Granola
+- [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy-first AI meeting note taker for Windows, macOS and Linux. Free, open source (MIT). On-device Whisper/Parakeet transcription and speaker diarization, no meeting bot. Open-source alternative to 
 - [tinyhumansai/openhuman](https://github.com/tinyhumansai/openhuman) - The fastest, cheapest, most efficient open-source agent harness. Run more than 500 agents on a $10 VPS.
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex和其他 AI Agent变得更好用更舒服
 - [codewhale-hq/Codewhale](https://github.com/codewhale-hq/Codewhale) - An open-source coding agent for your terminal, written in Rust. It works with any model, can split one task across several agents, and every line of it is yours to read.
