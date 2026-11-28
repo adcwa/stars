@@ -90,6 +90,7 @@
 
 ## Go 
 
+- [Christ9038/Ydisks-Xianyu-Helper](https://github.com/Christ9038/Ydisks-Xianyu-Helper) - 闲鱼多账号自动发货、消息回复系统——基于 Go 与 React 构建
 - [yetone/magpie](https://github.com/yetone/magpie) - Pool every plan you pay for — Claude, ChatGPT, Copilot, GLM Coding Plan, Kimi Code and more — and use them in any agent: Claude Code, Codex, Claude Desktop… When one runs out, the next takes over.
 - [MHSanaei/3x-ui](https://github.com/MHSanaei/3x-ui) - Supporting multi-protocol multi-user(Vmess, Vless, Trojan, ShadowSocks, Wireguard, Hysteria, Tunnel, Mixed, HTTP, Tun, MTProto، AmneziaWG)
 - [palemoky/chinese-poetry-api](https://github.com/palemoky/chinese-poetry-api) - 📜 诗泉：支持语义搜索的高性能中国古诗词 API 服务
@@ -269,7 +270,7 @@
 - [iamcheyan/fudoki](https://github.com/iamcheyan/fudoki) - An interactive Japanese text analysis and speech synthesis web app
 - [TonyGermaneri/canvas-datagrid](https://github.com/TonyGermaneri/canvas-datagrid) - Canvas based data grid web component.  Capable of displaying millions of contiguous hierarchical rows and columns without paging or loading, on a single canvas element.
 - [cjo4m06/mcp-shrimp-task-manager](https://github.com/cjo4m06/mcp-shrimp-task-manager) - Shrimp Task Manager is a task tool built for AI Agents, emphasizing chain-of-thought, reflection, and style consistency. It converts natural language into structured dev tasks with dependency tracking
-- [microsoft/foundry-dev-tools](https://github.com/microsoft/foundry-dev-tools) - 
+- [microsoft/foundry-dev-tools](https://github.com/microsoft/foundry-dev-tools) - Microsoft Foundry for Visual Studio Code and other surfaces
 - [dataease/SQLBot](https://github.com/dataease/SQLBot) - 🔥 基于大模型和 RAG 的智能问数系统，对话式数据分析神器。Text-to-SQL Generation via LLMs using RAG.
 - [aeonfun/opendia](https://github.com/aeonfun/opendia) - Connect your browser to AI models. Just use Dia on Chrome, Arc or Firefox.
 - [jobsonlook/xhs-mcp](https://github.com/jobsonlook/xhs-mcp) - 小红书MCP服务 x-s x-t js逆向
